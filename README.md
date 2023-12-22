@@ -1,4 +1,4 @@
-# Rawg Game Explorer
+# Game Details
 
 A simple Flask application for exploring games using the RAWG Video Games Database API.
 
