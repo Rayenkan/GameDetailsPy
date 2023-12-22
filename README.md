@@ -17,13 +17,13 @@ Ensure you have Python installed on your system.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/rawg-game-explorer.git
+    git clone https://github.com/Rayenkan/GameDetailsPy.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd rawg-game-explorer
+    cd GameDetailsPy
     ```
 
 3. Install dependencies:
