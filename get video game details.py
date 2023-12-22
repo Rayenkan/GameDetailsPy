@@ -5,7 +5,7 @@ def search_games_by_name(game_name):
     api_url = "https://api.rawg.io/api/games"
 
     params = {
-        'key': 'e987444dc539477fb7d6dbf09a611868',
+        'key': 'YOUR_key',
         'search': game_name
     }
 
